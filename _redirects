@@ -1,5 +1,6 @@
 # These are valid:
 /home / 301
+/querystrings /?query=string 301
 /twitch https://twitch.tv
 
 # This is invalid
