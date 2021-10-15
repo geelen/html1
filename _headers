@@ -1,2 +1,2 @@
 /
-  X-Custom-Header: custom-value
+  X-Custom-Header: set in _headers file amazing!
